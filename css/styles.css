@@ -330,6 +330,7 @@ img {
 
 .adres-link {
   color: var(--title-second-color);
+  padding: 0;
 }
 
 .footer-nav {
@@ -347,7 +348,7 @@ img {
   color: var(--main-text-color);
 }
 
-.main {
+.section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
